@@ -1,6 +1,6 @@
 # Schachfigur
 
-CAD-Modell einer Schachfigur, erstellt mit SolidWorks / 3DEXPERIENCE.
+CAD-Modell einer Schachfigur, erstellt mit CATIA / 3DEXPERIENCE.
 
 ## Bauteil
 ![Bauteil](bauteil.png)
